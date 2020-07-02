@@ -96,8 +96,8 @@ author:
   name             : "CCPS"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "JBNU 콩콩프사조"
-  location         : ""
-  email            : yyh8087@gmail.com
+  location         : "우리 집"
+  email            : "yyh8087@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
